@@ -8,7 +8,7 @@ import com.mariuspurici.lab1.open_closed.{
 }
 import com.mariuspurici.lab1.single_responsability.{Person, Student, Teacher}
 
-object Main extends App {
+object Main {
   println(Console.RED + "First Laboratory Work\n" + "-" * 64 + Console.RESET)
   println(
     Console.GREEN + "Single Responsability Principle\n" + "-" * 64 + Console.RESET
