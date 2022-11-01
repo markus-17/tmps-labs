@@ -1,3 +1,3 @@
 package com.mariuspurici
 
-@main def main(): Unit = lab2.Main.run()
+@main def main(): Unit = lab3.Main.run()
